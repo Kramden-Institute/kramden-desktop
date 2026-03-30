@@ -1,3 +1,9 @@
+kramden-desktop (0.0.6-0) resolute; urgency=medium
+
+  * Prepare for resolute
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Mon, 30 Mar 2026 15:48:57 -0400
+
 kramden-desktop (0.0.5-0) noble; urgency=medium
 
   * Prepare for noble
