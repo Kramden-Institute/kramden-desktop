@@ -1,3 +1,11 @@
+kramden-desktop (0.0.7-0) resolute; urgency=medium
+
+  * debian/control
+    - Dropped scratch depends as it's not available in resolute
+    - Changed cheese to gnome-snapshot, it replaces cheese.
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Tue, 07 Jul 2026 19:41:24 -0400
+
 kramden-desktop (0.0.6-0) resolute; urgency=medium
 
   * Prepare for resolute
